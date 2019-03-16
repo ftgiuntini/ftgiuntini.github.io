@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to my page! I try to make available here in a slightly more organized way the experimental codes involved in my research of social data data analysis, but also provide some codes that I develop for personal learning, for example, something I did. Well, it's not a rule, lol.
+Welcome to my page! Welcome to my page! I try to make available here in a slightly more organized way the experimental codes involved in my research of social data data analysis, but also make available some codes that I develop for personal training even, for example, some course I did. Well, it's not a rule, lol.
 
 ## REPOSITORIES
 
